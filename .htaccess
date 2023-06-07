@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /PHP_HW6/
+
+Redirect /PHP_HW6/explorer.php /PHP_HW6/index.php
